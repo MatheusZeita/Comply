@@ -91,7 +91,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Diagrama de Casos de Uso
 
-<img width="1021" height="659" alt="image" src="https://github.com/user-attachments/assets/fd4eb9d6-54a0-4f6e-a4bf-eea17617a21e" />
+<img width="1021" height="659" alt="Comply 1" src="https://github.com/user-attachments/assets/7593eaa6-0ba4-4b3b-949c-e7bf1d990e96" />
+
 
 
 ## Gerenciamento de Projeto
@@ -100,9 +101,9 @@ De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar 
 
 ### Gerenciamento de Tempo
 
-![image](https://github.com/user-attachments/assets/2683c802-c097-404f-b218-60a1af688708)
+<img width="781" height="301" alt="Comply 2" src="https://github.com/user-attachments/assets/c4bc3e66-99da-4b52-bbf7-87ae7d02f3e7" />
 
-![image](https://github.com/user-attachments/assets/93b71eef-c36a-4569-acb8-c95103889157)
+<img width="1526" height="363" alt="Comply 3" src="https://github.com/user-attachments/assets/1deecd4f-a22d-40d1-991d-0f9b6409f041" />
 
 
 ### Gerenciamento de Equipe
