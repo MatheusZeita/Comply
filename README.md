@@ -15,6 +15,79 @@ O projeto é um sistema de leilões online, onde usuários podem cadastrar produ
 
 Ele também oferece recursos de administração, suporte ao usuário e filtros para facilitar a navegação, além de orientação clara sobre o funcionamento do sistema de lances, garantindo experiência intuitiva e eficiente.
 
+## Demonstração
+
+### Fluxo Principal
+
+Navegação principal da plataforma: listagem de produtos e visualização de detalhes.
+
+![fluxo-principal](./docs/gifs/1.%20Site.gif)
+
+---
+
+### Cadastro de Produto
+
+Criação de um novo produto pelo vendedor.
+
+![cadastro-produto](./docs/gifs/2.%20CadastroSucesso.gif)
+
+---
+
+### Validação Inteligente de Produto
+
+O sistema utiliza uma camada de validação automatizada para impedir cadastros inconsistentes ou inadequados.
+
+![validacao](./docs/gifs/3.%20CadastroFalho.gif)
+
+<details>
+<summary>CLIQUE AQUI para ver mais demonstrações</summary>
+
+<br>
+
+### Dashboard do Vendedor
+
+Interface para gerenciamento de produtos e leilões.
+
+![dashboard](./docs/gifs/4.%20Dashboard.gif)
+
+---
+
+### Cadastro de Conta
+
+Fluxo de criação de conta de usuário.
+
+![cadastro-conta](./docs/gifs/5.%20CadastroConta.gif)
+
+---
+
+### Documentação da API (Swagger)
+
+Visualização rápida dos endpoints de um dos microsserviços.
+
+![swagger](./docs/gifs/8.%20Swagger.gif)
+
+---
+
+### Testes de Integração
+
+Validação de integrações com serviços externos Amazon S3 e Google Gemma AI.
+
+![testes](./docs/gifs/6.%20TestesIntegracao.gif)
+
+---
+
+### Ambiente com Docker
+
+Execução dos microsserviços utilizando Docker Compose.
+
+![docker](./docs/gifs/7.%20Docker.gif)
+
+</details>
+
+## Apresentação
+
+🎬 [Vídeo de apresentação do projeto no Youtube - 10min](https://youtu.be/D-0VdaZQiJI)
+
 ## Integrantes
 
 * Matheus Zeíta Silva
