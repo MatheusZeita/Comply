@@ -1,6 +1,7 @@
 # Comply
 
-![Logo](https://github.com/user-attachments/assets/f968c405-ceb5-4b39-90c6-2c7b420adfdd)
+<img width="3118" height="939" alt="Comply logo" src="https://github.com/user-attachments/assets/f26754a3-1a9a-44c6-b7a6-8157367824dd" />
+
 
 
 
